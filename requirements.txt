@@ -1,0 +1,15 @@
+jupyter
+jupyterlab
+pandas~=1.1.4
+numpy~=1.19.4
+dtale
+spacy
+ipykernel
+spacy-lookups-data
+validator-collection
+matplotlib~=3.3.3
+sklearn
+nltk
+seaborn
+networkx
+wordcloud
